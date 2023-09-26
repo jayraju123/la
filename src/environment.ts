@@ -1,0 +1,32 @@
+export const environment = {
+    production: false,
+    apiRoot: 'http://13.233.87.183:8085', // Replace this with your actual API root URL
+    url2: "http://13.233.87.183:8085/my/count",
+    loginreq: 'http://13.233.87.183:8085/my/login',
+    protectedata: 'http://13.233.87.183:8085/my/protected-data',
+    saveTypeUrl: 'http://13.233.87.183:8085/my/create/',
+    menugetUrl: 'http://13.233.87.183:8085/my/gett/',
+    menueditUrl: 'http://13.233.87.183:8085/my/',
+    getabout: 'http://13.233.87.183:8085/my/find/',
+    updateUrl: 'http://13.233.87.183:8085/my/update/',
+    updateabout: 'http://13.233.87.183:8085/my/about/',
+    getTypeNames: 'http://13.233.87.183:8085/my/gett/',
+    menuurl1: 'http://13.233.87.183:8085/my/typeid/',
+    menuapiUrl: 'http://13.233.87.183:8085/my/',
+    editDetailsurl2: 'http://13.233.87.183:8085/my/update',
+    editDetailsurl3: 'http://13.233.87.183:8085/my/typeupdate',
+    Tableurl: 'http://13.233.87.183:8085/my/findall',
+    Tableurl1: 'http://13.233.87.183:8085/my/find/',
+    TableDeleteUrl: 'http://13.233.87.183:8085/my/deletebusiness/',
+    viewsaveTypeUrl: 'http://13.233.87.183:8085/my/create/',
+    viewgetUrl: 'http://13.233.87.183:8085/my/gett/',
+    vieweditUrl: 'http://13.233.87.183:8085/my/',
+    viewgetabout: 'http://13.233.87.183:8085/my/find/',
+    viewupdateUrl: 'http://13.233.87.183:8085/my/update/',
+    viewupdateabput: 'http://13.233.87.183:8085/my/updateAbout/',
+    viewgetTypeNames: 'http://13.233.87.183:8085/my/gett/',
+    viewurl1: 'http://13.233.87.183:8085/my/typeid/',
+    viewapiUrl: 'http://13.233.87.183:8085/my/',
+    saveImageUrl: 'http://13.233.87.183:8085/api/view/save/'
+
+};
